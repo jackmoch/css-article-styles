@@ -1,0 +1,44 @@
+.blues {
+  background-color: lightgreen;
+  font-family: "Trebuchet MS",Arial,sans-serif;
+  font-size: 1.05em;
+  line-height: 150%;
+  padding:3px;
+  border-radius: 10%;
+}
+
+.jazz {
+  background-color: lightblue;
+  font-family: "Palatino Linotype", "Book Antiqua", serif;
+  font-size: 1.1em;
+  line-height: 145%;
+  padding:2px;
+  border-radius: 25%;
+}
+
+.spirit {
+  background-color: lightyellow;
+  font-family: "Gill Sans","Gill Sans MT",Calibri,sans-serif
+  font-size: 0.95em;
+  line-height: 160%;
+  padding:5px;
+  border-radius: 3%;
+}
+
+.time {
+  background-color: #5990A5;
+  font-family: "Segoe UI",Arial,sans-serif;
+  font-size: 1.15em;
+  line-height: 170%;
+  padding:1px;
+  border-radius: 50%;
+}
+
+.wall {
+  background-color: rgba(153, 232, 135, 1);
+  font-family: "Palatino Linotype","Palatino LT STD","Book Antiqua",Georgia,serif;
+  font-size: 1.12em;
+  line-height: 140%;
+  padding:7px;
+  border-radius: 10%;
+}
